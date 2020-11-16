@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\ravel\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\ravel\\.nuget\\packages"
+    ]
+  }
+}
